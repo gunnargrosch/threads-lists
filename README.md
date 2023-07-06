@@ -23,7 +23,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Cobus Bernard @cobusbernard](https://www.threads.net/@cobusbernard)
 - [Ricardo Sueiras @ricardosueiras](https://www.threads.net/@ricardosueiras)
 - [Rohini Gaonkar @rohinigaonkar](https://www.threads.net/@rohinigaonkar)
-- [𝙱𝚘𝚊𝚣 𝚉𝚒𝚗𝚒𝚖𝚊𝚗 @boaz.work](https://www.threads.net/@boaz.work)
+- [Boaz Ziniman @boaz.work](https://www.threads.net/@boaz.work)
 - [Elizabeth Fuentes @elifue.tech](https://www.threads.net/@elifue.tech)
 - [Mark Birch @startupmarkb](https://www.threads.net/@startupmarkb)
 - [Ana Luiza Cunha @analuizac](https://www.threads.net/@analuizac)
