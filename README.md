@@ -48,7 +48,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Maish Saidel-Keesing @maishsk](https://www.threads.net/@maishsk)
 - [Mark Nunnikhoven @marknca](https://www.threads.net/@marknca)
 - [Matt Auerbach @mauerbac](https://www.threads.net/@mauerbac)
-- [Nicklas af Ekenstam @nilleaf](https://www.threads.net/@nilleaf]
+- [Nicklas af Ekenstam @nilleaf](https://www.threads.net/@nilleaf)
 
 ## AWS Heroes
 
