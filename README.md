@@ -33,6 +33,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Carol Milanez @carol.milanez.br](https://www.threads.net/@carol.milanez.br)
 - [Nelly Andrade @nellyandrade](https://www.threads.net/@nellyandrade)
 - [Jenna Pedersen @jennanerdsout](https://www.threads.net/@jennanerdsout)
+- [Jason Dunn @jasondunn](https://www.threads.net/@jasondunn)
 
 ## AWS Employees
 
