@@ -62,6 +62,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Matt Martz @martzcodes](https://www.threads.net/@martzcodes)
 - [Eyal Estrin @eyalestrin](https://www.threads.net/@eyalestrin)
 - [Steven Coochin @developersteve](https://www.threads.net/@developersteve)
+- [Tinotenda Makombe @_tinoten](https://www.threads.net/@_tinoten)
 
 ## AWS User Group Leaders
 
