@@ -65,6 +65,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Eyal Estrin @eyalestrin](https://www.threads.net/@eyalestrin)
 - [Steven Coochin @developersteve](https://www.threads.net/@developersteve)
 - [Tinotenda Makombe @_tinoten](https://www.threads.net/@_tinoten)
+- [Nick Frichette @nickfrichette](https://www.threads.net/@nickfrichette)
 
 ## AWS User Group Leaders
 
