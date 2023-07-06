@@ -49,6 +49,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Mark Nunnikhoven @marknca](https://www.threads.net/@marknca)
 - [Matt Auerbach @mauerbac](https://www.threads.net/@mauerbac)
 - [Nicklas af Ekenstam @nilleaf](https://www.threads.net/@nilleaf)
+- [Nick Walsh @nwalsh_](https://www.threads.net/@nwalsh_)
 
 ## AWS Heroes
 
@@ -57,6 +58,10 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Hiroko Nishimura @hirokonishimurawrites](https://www.threads.net/@hirokonishimurawrites)
 - [Ian Mckay @iann0036](https://www.threads.net/@iann0036)
 - [AJ Stuyvenberg @aj.stuyvenberg](https://www.threads.net/@aj.stuyvenberg)
+- [Adam Elmore @adamdotdev](https://www.threads.net/@adamdotdev)
+- [Luca Bianchi @luca.bianchi.1982](https://www.threads.net/@luca.bianchi.1982)
+- [Nathan Glover @luca.bianchi.1982](https://www.threads.net/@nathanglove)
+
 
 ## AWS Community Builders
 
@@ -66,6 +71,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Steven Coochin @developersteve](https://www.threads.net/@developersteve)
 - [Tinotenda Makombe @_tinoten](https://www.threads.net/@_tinoten)
 - [Nick Frichette @nickfrichette](https://www.threads.net/@nickfrichette)
+- [Brian Morrison @brianmmdev](https://www.threads.net/@brianmmdev)
 
 ## AWS User Group Leaders
 
