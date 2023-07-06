@@ -45,6 +45,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Morgan Willis @morganwilliscloud](https://www.threads.net/@morganwilliscloud)
 - [David Velez @davidbabylon](https://www.threads.net/@davidbabylon)
 - [Maish Saidel-Keesing @maishsk](https://www.threads.net/@maishsk)
+- [Mark Nunnikhoven @marknca](https://www.threads.net/@marknca)
 
 ## AWS Heroes
 
