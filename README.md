@@ -15,6 +15,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 ## AWS Developer Relations
 
 - [Gunnar Grosch @gunnargrosch](https://www.threads.net/@gunnargrosch)
+- [Taylor Jacobsen @taylorjacobsen](https://www.threads.net/@taylorjacobsen)
 - [Kris Howard @krishoward](https://www.threads.net/@krishoward)
 - [Banjo Obayomi @banjtheman](https://www.threads.net/@banjtheman)
 - [Danilo Poccia @danilop](https://www.threads.net/@danilop)
