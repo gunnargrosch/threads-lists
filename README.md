@@ -54,6 +54,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Brendan Bouffler @boofla88](https://www.threads.net/@boofla88)
 - [Rick Suttles @ricksuttles](https://www.threads.net/@ricksuttles)
 - [Thomas Rindfuss @t.rindfuss](https://www.threads.net/@t.rindfuss)
+- [Rob Wilson @d3vlinuk](https://www.threads.net/@d3vlinuk)
 
 ## AWS Heroes
 
