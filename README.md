@@ -79,6 +79,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Tinotenda Makombe @_tinoten](https://www.threads.net/@_tinoten)
 - [Nick Frichette @nickfrichette](https://www.threads.net/@nickfrichette)
 - [Brian Morrison @brianmmdev](https://www.threads.net/@brianmmdev)
+- [Amanda Quint @acq688](https://www.threads.net/@acq688)
 
 ## AWS User Group Leaders
 
