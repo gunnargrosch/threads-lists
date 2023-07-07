@@ -71,6 +71,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Ran Isenberg @ranthebuilder](https://www.threads.net/@ranthebuilder)
 - [Gaurav Kamboj @oyehooye](https://www.threads.net/@oyehooye)
 - [Matthew Coulter @nideveloper](https://www.threads.net/@nideveloper)
+- [Danielle Heberling @deeheber](https://www.threads.net/@deeheber)
 
 ## AWS Community Builders
 
