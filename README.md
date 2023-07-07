@@ -61,6 +61,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Adam Elmore @adamdotdev](https://www.threads.net/@adamdotdev)
 - [Luca Bianchi @luca.bianchi.1982](https://www.threads.net/@luca.bianchi.1982)
 - [Nathan Glover @luca.bianchi.1982](https://www.threads.net/@nathanglove)
+- [Ran Isenberg @ranthebuilder](https://www.threads.net/@ranthebuilder)
 
 
 ## AWS Community Builders
