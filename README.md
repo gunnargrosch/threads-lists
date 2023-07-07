@@ -51,6 +51,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Matt Auerbach @mauerbac](https://www.threads.net/@mauerbac)
 - [Nicklas af Ekenstam @nilleaf](https://www.threads.net/@nilleaf)
 - [Nick Walsh @nwalsh_](https://www.threads.net/@nwalsh_)
+- [Brendan Bouffler @boofla88](https://www.threads.net/@boofla88)
 
 ## AWS Heroes
 
@@ -63,7 +64,6 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Luca Bianchi @luca.bianchi.1982](https://www.threads.net/@luca.bianchi.1982)
 - [Nathan Glover @luca.bianchi.1982](https://www.threads.net/@nathanglove)
 - [Ran Isenberg @ranthebuilder](https://www.threads.net/@ranthebuilder)
-
 
 ## AWS Community Builders
 
