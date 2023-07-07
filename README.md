@@ -34,6 +34,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Nelly Andrade @nellyandrade](https://www.threads.net/@nellyandrade)
 - [Jenna Pedersen @jennanerdsout](https://www.threads.net/@jennanerdsout)
 - [Jason Dunn @jasondunn](https://www.threads.net/@jasondunn)
+- [Wojtek Gawroński @afronsky](https://www.threads.net/@afronsky)
 
 ## AWS Employees
 
