@@ -55,6 +55,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Rick Suttles @ricksuttles](https://www.threads.net/@ricksuttles)
 - [Thomas Rindfuss @t.rindfuss](https://www.threads.net/@t.rindfuss)
 - [Rob Wilson @d3vlinuk](https://www.threads.net/@d3vlinuk)
+- [Olga Shepeleva @olynyc](https://www.threads.net/@olynyc)
 
 ## AWS Heroes
 
