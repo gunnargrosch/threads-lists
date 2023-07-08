@@ -58,6 +58,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Olga Shepeleva @olynyc](https://www.threads.net/@olynyc)
 - [Alla Seiffert @allaseiff](https://www.threads.net/@allaseiff)
 - [Jeremy Baxter-Jenkins @sea_jeremy](https://www.threads.net/@sea_jeremy)
+- [Scott Grissom @_.scottv](https://www.threads.net/@_.scottv)
 
 ## AWS Heroes
 
