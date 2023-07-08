@@ -59,6 +59,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Alla Seiffert @allaseiff](https://www.threads.net/@allaseiff)
 - [Jeremy Baxter-Jenkins @sea_jeremy](https://www.threads.net/@sea_jeremy)
 - [Scott Grissom @_.scottv](https://www.threads.net/@_.scottv)
+- [Grant Starkman @gstarkma](https://www.threads.net/grantroot.sh)
 
 ## AWS Heroes
 
