@@ -77,6 +77,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Danielle Heberling @deeheber](https://www.threads.net/@deeheber)
 - [Aidan Steele @awsteele0](https://www.threads.net/@awsteele0)
 - [Sheen Brisals @sheenbrisals](https://www.threads.net/@sheenbrisals)
+- [Chris Williams @mistwire](https://www.threads.net/@mistwire)
 
 ## AWS Community Builders
 
