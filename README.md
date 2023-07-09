@@ -89,6 +89,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Brian Morrison @brianmmdev](https://www.threads.net/@brianmmdev)
 - [Amanda Quint @acq688](https://www.threads.net/@acq688)
 - [Sanjay Krishna @sanjaykmenon1](https://www.threads.net/@sanjaykmenon1)
+- [Sakesh Karanjit @sakesh_karanjit](https://www.threads.net/@sakesh_karanjit)
 
 ## AWS User Group Leaders
 
