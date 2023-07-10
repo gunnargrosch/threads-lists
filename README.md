@@ -60,6 +60,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Jeremy Baxter-Jenkins @sea_jeremy](https://www.threads.net/@sea_jeremy)
 - [Scott Grissom @_.scottv](https://www.threads.net/@_.scottv)
 - [Grant Starkman @gstarkma](https://www.threads.net/grantroot.sh)
+- [Erik Hanchett @erikch](https://www.threads.net/erikch)
 
 ## AWS Heroes
 
@@ -91,6 +92,9 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Amanda Quint @acq688](https://www.threads.net/@acq688)
 - [Sanjay Krishna @sanjaykmenon1](https://www.threads.net/@sanjaykmenon1)
 - [Sakesh Karanjit @sakesh_karanjit](https://www.threads.net/@sakesh_karanjit)
+- [Sreekesh Iyer @sreekesh.pvt](https://www.threads.net/@sreekesh.pvt)
+- [John Green @johngreendev](https://www.threads.net/@johngreendev)
+- [Paul Levy @aws.pop.bot](https://www.threads.net/aws.pop.bot)
 
 ## AWS User Group Leaders
 
