@@ -62,6 +62,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Scott Grissom @_.scottv](https://www.threads.net/@_.scottv)
 - [Grant Starkman @gstarkma](https://www.threads.net/grantroot.sh)
 - [Erik Hanchett @erikch](https://www.threads.net/erikch)
+- [Jeff Barr @jeffbarr](https://www.threads.net/jeffbarr)
 
 ## AWS Heroes
 
