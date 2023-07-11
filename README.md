@@ -97,6 +97,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Sreekesh Iyer @sreekesh.pvt](https://www.threads.net/@sreekesh.pvt)
 - [John Green @johngreendev](https://www.threads.net/@johngreendev)
 - [Paul Levy @aws.pop.bot](https://www.threads.net/aws.pop.bot)
+- [Corey Quinn @lastweekinaws](https://www.threads.net/@lastweekinaws)
 
 ## AWS User Group Leaders
 
