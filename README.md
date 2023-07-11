@@ -63,6 +63,8 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Grant Starkman @gstarkma](https://www.threads.net/grantroot.sh)
 - [Erik Hanchett @erikch](https://www.threads.net/erikch)
 - [Jeff Barr @jeffbarr](https://www.threads.net/jeffbarr)
+- [Eduardo Rodrigues @edu.aws](https://www.threads.net/edu.aws)
+- [Matheus Duarte @mduarte.tech](https://www.threads.net/mduarte.tech)
 
 ## AWS Heroes
 
