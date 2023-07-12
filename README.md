@@ -66,6 +66,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Eduardo Rodrigues @edu.aws](https://www.threads.net/edu.aws)
 - [Matheus Duarte @mduarte.tech](https://www.threads.net/mduarte.tech)
 - [Angel Pizarro @delagoya](https://www.threads.net/delagoya)
+- [James Hood @james.hood.codes](https://www.threads.net/james.hood.codes)
 
 ## AWS Heroes
 
