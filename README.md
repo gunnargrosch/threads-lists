@@ -65,6 +65,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Jeff Barr @jeffbarr](https://www.threads.net/jeffbarr)
 - [Eduardo Rodrigues @edu.aws](https://www.threads.net/edu.aws)
 - [Matheus Duarte @mduarte.tech](https://www.threads.net/mduarte.tech)
+- [Angel Pizarro @delagoya](https://www.threads.net/delagoya)
 
 ## AWS Heroes
 
