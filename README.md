@@ -102,6 +102,7 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [John Green @johngreendev](https://www.threads.net/@johngreendev)
 - [Paul Levy @aws.pop.bot](https://www.threads.net/aws.pop.bot)
 - [Corey Quinn @lastweekinaws](https://www.threads.net/@lastweekinaws)
+- [Sebastian Bille @seb.bille](https://www.threads.net/@seb.bille)
 
 ## AWS User Group Leaders
 
