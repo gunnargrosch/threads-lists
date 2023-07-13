@@ -85,6 +85,8 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Aidan Steele @awsteele0](https://www.threads.net/@awsteele0)
 - [Sheen Brisals @sheenbrisals](https://www.threads.net/@sheenbrisals)
 - [Chris Williams @mistwire](https://www.threads.net/@mistwire)
+- [Yan Cui @theburntmonk](https://www.threads.net/@theburntmonk)
+
 
 ## AWS Community Builders
 
