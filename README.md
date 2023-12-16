@@ -105,10 +105,11 @@ Repository contains lists of [Threads](https://threads.net/) users separated by 
 - [Paul Levy @aws.pop.bot](https://www.threads.net/aws.pop.bot)
 - [Corey Quinn @lastweekinaws](https://www.threads.net/@lastweekinaws)
 - [Sebastian Bille @seb.bille](https://www.threads.net/@seb.bille)
+- [Jimmy Dahlqvist @jimmydqvist](https://www.threads.net/@jimmydqvist)
 
 ## AWS User Group Leaders
 
-- -
+- [Jimmy Dahlqvist @jimmydqvist](https://www.threads.net/@jimmydqvist)
 
 ## Contribute
 
